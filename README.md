@@ -1,6 +1,6 @@
 # kaggle-02-disaster-tweets
 
-I took part in Kaggle's NLP competition called Disaster Tweets. The aim was to predict if given tweet is about real catastrophe or not.
+I took part in Kaggle's NLP competition called Disaster Tweets. The goal was to predict if given tweet is about real catastrophe or not.
 
 https://www.kaggle.com/c/nlp-getting-started/overview
 
